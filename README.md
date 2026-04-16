@@ -13,6 +13,8 @@
 <br>
 Скачать ТИС 7.70.1007 по ссылке: https://github.com/rf-bessome/1cv7-tis/blob/main/1cv7-tis-1007.md <br>
 <br>
+Скачать ТИС 7.70.1007 с книгой покупок-продаж 2026 по ссылке: https://github.com/rf-bessome/1cv7-tis/blob/main/tis_1007_sale-book.md
+<br>
 <br>
 Посмотрите мое резюме: https://github.com/rf-bessome/resume/blob/main/Разработчик%20-%20Лупонос%20Дмитрий%20Валерьевич.pdf
 
