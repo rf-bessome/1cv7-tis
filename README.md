@@ -9,6 +9,9 @@
 Перечисление  - СтавкиНДС<br>
 <br>
 Скачать по ссылке: https://github.com/rf-bessome/1cv7-tis/blob/main/1cv7.md <br>
+Скачать ТИС 7.70.993 по ссылке: https://github.com/rf-bessome/1cv7-tis/blob/main/1cv7-tis-993.md <br>
+<br>
+Скачать ТИС 7.70.1007 по ссылке: https://github.com/rf-bessome/1cv7-tis/blob/main/1cv7-tis-1007.md <br>
 <br>
 <br>
 Посмотрите мое резюме: https://github.com/rf-bessome/resume/blob/main/Разработчик%20-%20Лупонос%20Дмитрий%20Валерьевич.pdf
